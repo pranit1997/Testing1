@@ -23,4 +23,3 @@ public class Test2 {
         driver.close();
     }
 }
-//c-course-progress

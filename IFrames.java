@@ -19,7 +19,7 @@ public class IFrames {
 
 String actrslt = "Generated Documentation (Untitled)";
 String expctrslt = driver.getTitle();
-if (expctrslt==actrslt);
+if (expctrslt == actrslt);
         {System.out.println("pass");}
         driver.close();
 
